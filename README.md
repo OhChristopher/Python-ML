@@ -1,2 +1,2 @@
 # Python-ML
-Machine learning libraries which include logistic regression, SVM, deep learning models
+Machine learning libraries which include logistic regression and SVM
